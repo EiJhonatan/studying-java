@@ -5,6 +5,7 @@ public class ExemploBreakContinue {
             continue;;
 
             System.out.println(numero);
+            
         }
     }
 }
